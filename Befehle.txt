@@ -1,0 +1,10 @@
+cd joey_blog
+
+jekyll serve //localhost:4000
+jekyll serve --draft
+
+git add .
+
+git commit -m "eve2"
+git push origin gh-pages
+
